@@ -1,0 +1,44 @@
+*{
+  background-color: purple;
+  font-family: Times;
+  color: #FFFFE0;
+}
+
+h1,h3{
+  text-decoration: underline;
+}
+
+header, nav{
+  text-align: center;
+}
+
+nav li{
+   display : inline;
+   padding : 0 0.5em;
+}
+
+header img{
+  width: 881px;
+  height: 182px;
+  text-align: center;
+}
+
+aside{
+  float : right;
+}
+
+#page5 h1, #msed_page{
+  text-align: center;
+}
+
+#page6 h1, #avelcain_page{
+  text-align: center;
+}
+
+#page7 h1, #dezert_page{
+  text-align: center;
+}
+
+#page8 h1, #fixer_page{
+  text-align: center;
+}
